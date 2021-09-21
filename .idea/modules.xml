@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BasicCode/BasicCode.iml" filepath="$PROJECT_DIR$/BasicCode/BasicCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBasic.iml" filepath="$PROJECT_DIR$/JavaBasic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyMethodTest/MyMethodTest.iml" filepath="$PROJECT_DIR$/MyMethodTest/MyMethodTest.iml" />
+    </modules>
+  </component>
+</project>
